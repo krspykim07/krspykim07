@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kim</h1>
-<h3 align="center">I am a Computer Engineering student passionate in designing both software and hardware</h3>
+<h1 >Hi 👋, I'm Kim</h1>
+<h3>I am a Computer Engineering student passionate in designing both software and hardware</h3>
+
 
 - 🏫 I am currently student in **California State University, Sacramento**
 - 🌱 I’m currently learning **Database Management and Software Engineering class**
-- 📫 How to reach me **vktalgador@gmail.com**
+- 📫 How to reach me: **vktalgador@gmail.com**
 - ⚡ Fun fact **I play 🏐 volleyball and like 🎵 kpop**
 
 <h3 align="left">Connect with me:</h3>
