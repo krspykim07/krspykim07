@@ -2,8 +2,8 @@
 <h3>I am a Computer Engineering student passionate in designing both software and hardware</h3>
 
 
-- 🏫 I am currently student in **California State University, Sacramento**
-- 🌱 I’m currently learning **Database Management and Software Engineering class**
+- 🏫 I graduated in **California State University, Sacramento** in 2024
+- 🌱 I’m currently learning **Python and ReactJS**
 - 📫 How to reach me: **vktalgador@gmail.com**
 - ⚡ Fun fact **I play 🏐 volleyball and like 🎵 kpop**
 
