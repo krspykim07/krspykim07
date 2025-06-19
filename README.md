@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Kim</h1>
-<h3>I am a Computer Engineering student passionate in designing both software and hardware</h3>
+<h3>I am a recent Computer Engineering Graduate passionate in designing both software and hardware</h3>
 
 
 - 🏫 I graduated in **California State University, Sacramento** in 2024
